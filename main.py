@@ -14,8 +14,8 @@ birthday = '07-19'
 app_id = 'wx5159afd2356d31be'
 app_secret = '831de9750e8ba51c773f1d438cc71366'
 
-user_id = 'onNlc5moaUAZPzMTnLMZHqwOZpTQ'
-template_id = 'KqWDMMCQ0lNVKBCWaX5wfhOtOnGLBmB4k7YBsU5Dp5E'
+user_id = 'onNlc5q4TsqgyOUj3GqMbi7ZxNgY'
+template_id = 'eqJY49L4l0n9nR-4K7FB0fe6pKTfFf7E1XUm0hVLdAg'
 
 
 def get_weather():
